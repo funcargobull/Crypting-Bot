@@ -21,3 +21,5 @@ This bot can encrypt/decrypt files using symmetric encryption based on the AES a
 2. /decrypt - you will need to send an encrypted file and key and you will get the original file
 ### Notes
 This bot does **NOT** contain /start and /help commands. Only above ones.
+### Folder "documents"
+This folder is just for cache. ***Please do not delete it!***
